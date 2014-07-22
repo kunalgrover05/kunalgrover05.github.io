@@ -33,6 +33,7 @@ body {
 ol, ul {
 	list-style: none;
 }
+
 blockquote, q {
 	quotes: none;
 }
@@ -295,7 +296,7 @@ blockquote {
 }
 
 ul li {
-  list-style: disc inside;
+  list-style: square inside;
   padding-left: 20px;
 }
 
